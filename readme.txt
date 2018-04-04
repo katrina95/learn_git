@@ -2,4 +2,8 @@ Git is a distributed version control system.
 Git is free software distributed under GPL.
 GGit has a mutable index called stage
 add last line
-creating a new branch katrina, which is simple
+<<<<<<< HEAD
+creating a new branch katrina, which is simple & easy.
+=======
+creating a new branch katrina, which is simple & easy.
+>>>>>>> katrina
