@@ -7,3 +7,4 @@ creating a new branch katrina, which is simple & easy.
 =======
 creating a new branch katrina, which is simple & easy.
 >>>>>>> katrina
+wenting change
