@@ -10,3 +10,4 @@ creating a new branch katrina, which is simple & easy.
 wenting change
 wenting change2
 change on branch1
+change2 on branch1
